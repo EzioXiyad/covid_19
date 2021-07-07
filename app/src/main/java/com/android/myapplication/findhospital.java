@@ -302,11 +302,108 @@ public class findhospital extends FragmentActivity implements
                 .title("Adhunik sadar hospital, Nilphamari"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(nilphamari));
 
-        LatLng gaibandha = new LatLng(25.32346, 89.51003);
+        LatLng gaibandha = new LatLng(25.32330, 89.50999);
         mMap.addMarker(new MarkerOptions()
                 .position(gaibandha)
                 .title("Ansar VDP training centre,Gaibandha"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(gaibandha));
+
+        LatLng mymensing = new LatLng(24.75205, 90.41684);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing)
+                .title("SK Hospital,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing));
+
+        LatLng mymensing1 = new LatLng(24.74428, 90.40949);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing1)
+                .title("Mymensing Medical College Hospital,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing1));
+
+        LatLng mymensing2 = new LatLng(24.75398, 90.40398);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing2)
+                .title("Shodesh Hospital pvt,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing2));
+
+        LatLng mymensing3 = new LatLng(24.74270, 90.40786);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing3)
+                .title("Pranto pvt sepcialized hospital,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing3));
+
+        LatLng mymensing4 = new LatLng(24.74971, 90.40584);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing4)
+                .title("Nexus Hospital ,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing4));
+
+        LatLng mymensing5 = new LatLng(24.73731, 90.40779);
+        mMap.addMarker(new MarkerOptions()
+                .position(mymensing5)
+                .title("Liberty Hospital,Mymensing"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(mymensing5));
+
+        LatLng netrokona = new LatLng(24.81006, 90.86201);
+        mMap.addMarker(new MarkerOptions()
+                .position(netrokona)
+                .title("Atpara Upozila Health Complex, Netrokona"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(netrokona));
+
+        LatLng netrokona1 = new LatLng(24.87164, 90.73209);
+        mMap.addMarker(new MarkerOptions()
+                .position(netrokona1)
+                .title("Netrokona General Hospital, Netrokona"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(netrokona1));
+
+        LatLng jamalpur = new LatLng(24.91641, 89.93160);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur)
+                .title("Shekh Hasina Medical College,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur));
+
+        LatLng jamalpur1 = new LatLng(24.98224, 89.83630);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur1)
+                .title("Melandaha Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur1));
+
+        LatLng jamalpur2 = new LatLng(24.89412, 89.71717);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur2)
+                .title("Madarganj Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur2));
+
+        LatLng jamalpur3 = new LatLng(25.07788, 89.79939);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur3)
+                .title("Islampur Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur3));
+
+        LatLng jamalpur4 = new LatLng(24.75533, 89.83585);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur4)
+                .title("Sarishabari Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur4));
+
+        LatLng jamalpur5 = new LatLng(25.16188, 89.75890);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur5)
+                .title("Dewanganj Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur5));
+
+        LatLng jamalpur6 = new LatLng(25.17752, 89.87051);
+        mMap.addMarker(new MarkerOptions()
+                .position(jamalpur6)
+                .title("Bakshiganj Upozila Health Complex,Jamalpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(jamalpur6));
+
+        LatLng sherpur = new LatLng(25.01829, 90.02463);
+        mMap.addMarker(new MarkerOptions()
+                .position(sherpur)
+                .title("Sherpur Sadar Hospital,Sherpur"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(sherpur));
+
     }
 
 
