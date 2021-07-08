@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Button m1,m2,m3,m4,m5,m6;
     Button n1,n2;
     Button j1,j2,j3,j4,j5,j6,j7,j8;
+    Button r1,r2,r3,r4,r5,p,j,nao,cha,bogura,siraj;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -63,6 +64,17 @@ public class MainActivity extends AppCompatActivity {
         j6=findViewById(R.id.jamalpur5);
         j7=findViewById(R.id.jamalpur6);
         j8=findViewById(R.id.sherpur);
+        r1=findViewById(R.id.raj);
+        r2=findViewById(R.id.raj1);
+        r3=findViewById(R.id.raj2);
+        r4=findViewById(R.id.raj3);
+        r5=findViewById(R.id.raj4);
+        p=findViewById(R.id.pabna);
+        j=findViewById(R.id.joy);
+        nao=findViewById(R.id.nao);
+        cha=findViewById(R.id.cha);
+        bogura=findViewById(R.id.bogura);
+        siraj=findViewById(R.id.siraj);
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -344,5 +356,76 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(getApplicationContext(),findhospital.class));
             }
         });
+
+       r1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        r2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        r3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        r4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        r5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        p.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        j.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        nao.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        bogura.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
+        siraj.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(),findhospital.class));
+            }
+        });
+
     }
 }

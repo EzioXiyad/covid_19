@@ -1931,6 +1931,510 @@
             android:padding="5dp"
             tools:ignore="OnClick" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CDM Hospital pvt,Rajshahi"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 50"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/raj"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Infectious Disease Hospital,Rajshahi"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 30"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/raj1"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mohila krira complex,Rajshahi"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 50"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/raj2"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rajshahi Cancer hospital and research centre trust,Rajshahi"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 50"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/raj3"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Leprosy control centre,Rajshahi"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 20"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/raj4"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Amina Monsur girls high school, Pabna"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 100"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/pabna"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Institute of Health Technology,Joypurhat"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 210"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/joy"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Old Hospital,Naogaon"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 100"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/nao"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chapainobabgonj polytechnic institute,Chapainobabganj"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 100"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/cha"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mohammad Ali Hospital, Bogura"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 250"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/bogura"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Khokshabari Hospital, Sirajganj"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textSize="28dp"
+            android:textColor="	#006600"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal" />
+
+
+
+
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:text="Seat 20"
+            android:textStyle="bold"
+            android:textColor="#000"
+
+            android:textSize="28sp"/>
+        <Button
+
+            android:id="@+id/siraj"
+            android:layout_marginTop="20dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:background="@drawable/shape"
+            android:layout_gravity="center"
+            android:text="Get Hospital Direction"
+            android:onClick="goTrackhospital"
+            android:textColor="#fff"
+            android:textSize="15sp"
+            android:padding="5dp"
+            tools:ignore="OnClick" />
 
     </LinearLayout>
 
